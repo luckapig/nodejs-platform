@@ -9,12 +9,12 @@
     },
     "inbounds": [
         {
-            "port": 8080,
+            "port": 8099,
             "protocol": "trojan",
             "settings": {
                 "clients": [
                     {
-                        "password": "123"
+                        "password": "123pass"
                     }
                 ]
             },
